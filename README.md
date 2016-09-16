@@ -4,7 +4,7 @@ Vanilla Releases
 
 First generation of DigitalRs Wallet "Batwa 1" </br>
 Check the project roadmap for V2 release </br>
-DigiralRs Raspberri Pi Daemon built on Pi3 </br>
+DigiralRs Raspberry Pi Daemon built on model 2 and 3 </br>
 
 Howto Build on Pi
 ================
