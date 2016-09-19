@@ -15,3 +15,10 @@ Finally strip digitalrsd and copy in binary path. </br>
 Note: There is a huge build time difference between Pi2 and Pi3 because Pi3 has 1.2 Ghz Quad cores compared </br>
 to 900Mhz on Pi2. Not only that, they have a generation differnce which makes Pi3 faster and slighlty more power </br>
 hungry consuming 2.5 Amps. </br>
+
+Prerequisites for Linux Wallets
+===============================
+Before executing the DigitalRs QT wallet, please make sure that you have the required essetial libraries </br>
+Install them with: </br>
+sudo libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libqtgui4 build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.0-dbg
+
