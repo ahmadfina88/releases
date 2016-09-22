@@ -21,7 +21,7 @@ hungry consuming 2.5 Amps. </br>
 
 Prerequisites for Linux Wallets
 ===============================
-Before executing the DigitalRs QT wallet, please make sure that you have the required essetial libraries. Build essentials are not mandatory. </br></br>
+Before executing the DigitalRs QT wallet, please make sure that you have the required essetial libraries. Build essentials are mandatory if you are building from source. </br></br>
 Install them with: </br> </br>
 sudo apt-get install build-essential libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libgmp3-dev libqtgui4 libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.0-dbg libevent-dev libcrypto++-dev
 
