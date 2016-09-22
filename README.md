@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DigitalRs/releases/master/drs-qt-windows-screenshot.PNG">
+  <img src="https://raw.githubusercontent.com/DigitalRs/releases/master/splash.png">
 </p>
                                                        
 Vanilla Releases
